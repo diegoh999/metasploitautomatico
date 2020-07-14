@@ -1,5 +1,5 @@
 #!/bin/bash
-#hecho por el colider de the holders
+#hecho por diegoh el colider de the holders
 
 figlet -f big theholders
 
@@ -27,6 +27,6 @@ dpkg -i metasploit_5.0.65-1_all.deb
 
 apt install -f -y
 
-echo -e "\e[31m Metasploit se instalo correctamente\e[0m"
+echo -e "\e[31m Metasploit se instalo correctamente, script hecho por diegoh\e[0m"
 
                                            
